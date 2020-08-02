@@ -1,0 +1,2 @@
+Shortest way from gdansk to warszawa= 3
+Shortest way from bydgoszcz to warszawa= 2
